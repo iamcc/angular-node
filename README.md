@@ -1,7 +1,7 @@
 Introduction
 ------------
 
-This project demonstrate how to use angular and node build a system. it uses several framework, including:
+This project demonstrates how to use angular and node to build a system. it uses several framework, including:
 
 * express
 * angularjs
