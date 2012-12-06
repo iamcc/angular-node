@@ -1,11 +1,15 @@
 Introduction
 ------------
 
-This project demonstrates how to use angular and node to build a system. it uses several framework, including:
+This project demonstrates how to use angular and node to build a system. It uses several framework, including:
 
 * express
 * angularjs
 * bootstrap
+
+View the example
+----------------
+You can browse it [here](http://angular-node.cloudfoundry.com).
 
 Run the example
 ---------------
